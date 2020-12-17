@@ -1,6 +1,9 @@
 # Horiseon Website 
 Horiseon Marketing Agency focuses on providing clients with optimal Search Engine Optimization (SEO), online reputation monitoring, and social media management. Their goal is to ensure that their client's are able to have a positive recognition online. 
-**Check it out! You can find the link to their new website page here: [Horiseon Marketing Agency](https://maria-lara.github.io/horiseon-web/)**
+**Check it out!**
+* You can find the link to their new website page here: [Horiseon Marketing Agency](https://maria-lara.github.io/horiseon-web/)
+* GitHub URL: [maria-lara](https://maria-lara.github.io)
+* GitHub Repository: [horiseon-web](https://github.com/maria-lara/horiseon-web)
 
 ## Motivation
 Since Horiseon provides SEO services for their clients, it is essential that they are able to uphold these services for their own company's reputation. By enhancing their own website's SEO, they are able to provide an example for potential clients, as well as make their services more widespread on the internet. Although the true key to "winning" SEO is unknown, there are a few factors that are known to contribute to SEO ranking/
@@ -21,3 +24,6 @@ One of these methods is through accessibility. Accessibility refers to a website
 * **Audio, Video, Figure:** Adding "rich content," which is content that goes beyond text, is a great way to capture the attention of search engines like Google. Within these types of content may be alternative text (keywords describing the images) or related content. 
 
 ## Screenshots
+* Top of the page: ![screenshot of top of websitepage including header](https://github.com/maria-lara/horiseon-web/blob/main/images/Screen%20Shot%202020-12-16%20at%2011.54.14%20PM.png)
+* Bottom of the page: ![screenshot of bottom of website page and footer](https://github.com/maria-lara/horiseon-web/blob/main/images/Screen%20Shot%202020-12-16%20at%2011.54.21%20PM.png)
+
