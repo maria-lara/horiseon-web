@@ -1,5 +1,5 @@
 # Horiseon Website 
-Horiseon Marketing Agency focuses on providing clients with optimal Search Engine Optimization (SEO), online reputation monitoring, and social media management. Their goal is to ensure that their client's are able to have a positive recognition online. 
+Horiseon Marketing Agency focuses on providing clients with highly-ranked Search Engine Optimization (SEO), online reputation monitoring, and social media management. Their goal is to ensure that their client's are able to have a positive recognition online. 
 
 **Check it out!**
 * You can find the link to their new website page here: [Horiseon Marketing Agency](https://maria-lara.github.io/horiseon-web/)
