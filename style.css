@@ -4,43 +4,45 @@
     margin: 0;
 }
 
+.float-left {
+    float: left;    /* image will be located to the left of the text*/
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;   /* image will be located to the right of the text*/
+    margin-left: 25px;
+}
+
 body {
     background-color: #d9dcd6;
 }
 
-.header {
+header {   
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
-    
 }
 
-.header h1 {
+h1 {    
     display: inline-block;
     font-size: 48px;
-
 }
 
-.header nav {
-    padding-top: 15px;
-    margin-right: 20px;
-
-    float:right;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 20px;
+h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
 }
 
-.header nav ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
 
+h3 {
+    margin-bottom: 10px;
+    text-align: center;
 }
 
-.header nav ul li {
-    display: inline-block;
-    margin-left: 25px;
+p {
+    font-size: 16px;
 }
 
 a {
@@ -48,9 +50,28 @@ a {
     text-decoration: none;
 }
 
+nav {       /*navigation bar will be to the right of the agency's name*/
+    padding-top: 15px;
+    margin-right: 20px;
+    float:right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+nav ul {    
+    list-style-type: none;  /*leaves list without numbering or bullets*/
+    margin: 0;
+    padding: 0;
+
+}
+
+nav ul li { 
+    display: inline-block;
+    margin-left: 25px;
+}
 
 
-#hero {
+#hero {     /*use this to change the sizing of the hero image or space underneath*/
     height: 500px;
     width: 100%;
     margin-bottom: 25px;
@@ -59,23 +80,14 @@ a {
     background-position: center;
 }
 
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
 
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
-.content {
+.content {  /*this covers the entire content layout*/
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-.content section {
+.content section { /*this defines how each "box" of content looks and keeps it uniform*/
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -84,20 +96,12 @@ a {
     color: #ffffff;
 }
 
-.content h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
 .content img {
     max-height: 200px;
 }
 
-p {
-    font-size: 16px;
-}
 
-.benefits {
+.benefits { /*keeps the benefits over to the right, similar to a sidebar*/
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -114,18 +118,13 @@ p {
 }
 
 
-.benefits h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
 .benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.footer {
+.footer {   /*you want this part of the website to stand out & define the end of the page*/
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
